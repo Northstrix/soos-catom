@@ -4,7 +4,7 @@ An app that can fit a multi-page website into a single page.
 
 ![Alt App-logo](https://github.com/Northstrix/soos-catom/blob/main/images/logo.jpg?raw=true)
 
-By using the app, you accept and agree to these terms:
+By using the app, you accept the following terms:
 
 * This application is an experimental tool made for educational and demonstrational purposes only.
 * This application is not intended for commercial use or as a production-ready tool.
