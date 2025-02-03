@@ -1,0 +1,22 @@
+.pageElement {
+    background-color: #FFF5E6;
+    border: 2px solid #FF8C00;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .pageElement h3 {
+    color: #FF4500;
+    margin-bottom: 0.5rem;
+  }
+  
+  .pageElement pre {
+    background-color: #FFD700;
+    padding: 0.5rem;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    word-break: break-all;
+    font-size: 0.9rem;
+  }
+  

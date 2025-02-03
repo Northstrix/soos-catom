@@ -1,0 +1,86 @@
+.container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: var(--background);
+  min-height: 100vh;
+  color: var(--foreground);
+}
+
+.title {
+  color: var(--primary-orange);
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.section {
+  background-color: var(--theme-white);
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sectionTitle {
+  color: var(--secondary-orange);
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.pageList, .elementList {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.pageItem, .elementItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--background);
+  border-radius: 4px;
+  padding: 0.75rem;
+}
+
+.pageItemContent {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-grow: 1;
+}
+
+.removeButton {
+  background: none;
+  border: none;
+  color: var(--delete-color);
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease;
+}
+
+.removeButton:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .section {
+    padding: 1rem;
+  }
+}
+
+.icon {
+  font-size: 24px; /* Adjust the size of the icons */
+  margin-right: 10px; /* Space between icon and button text */
+  color: #333333; /* Default icon color */
+  transition: transform 0.2s ease, color 0.2s ease;
+}
