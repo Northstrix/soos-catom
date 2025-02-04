@@ -2,7 +2,7 @@
 
 An app that can fit a multi-page website into a single page.
 
-[Related article](https://medium.com/@Northstrix/how-to-fit-a-multi-page-website-into-a-single-page-dfe52c5205fd)
+Related article: https://medium.com/@Northstrix/how-to-fit-a-multi-page-website-into-a-single-page-dfe52c5205fd
 
 ![Alt App-logo](https://github.com/Northstrix/soos-catom/blob/main/images/logo.jpg?raw=true)
 
