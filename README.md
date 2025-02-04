@@ -25,3 +25,7 @@ The existence of this project (at least in its current form) wouldn't've been po
 [Named scroll-timeline vertical](https://codepen.io/utilitybend/pen/VwBRNwm) by [utilitybend](https://codepen.io/utilitybend)
 
 [tabler-icons](https://github.com/tabler/tabler-icons) by [tabler](https://github.com/tabler)
+
+[Custom Tooltip](https://codepen.io/Adir-SL/pen/VwXGPmy) by [Adir](https://codepen.io/Adir-SL)
+
+[Tooltip With Bottom Arrow](https://codepen.io/Athul369/pen/PorxxKr) by [Athul](https://codepen.io/Athul369)
